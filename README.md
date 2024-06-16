@@ -1,5 +1,5 @@
 
-<title>README - Game of Thrones Kotlin Adventure</title>
+
 
 <h1 align="center">Game of Thrones Kotlin Adventure</h1>
 <img src="img/GOT-Kotlin.png">
